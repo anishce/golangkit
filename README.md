@@ -1,15 +1,14 @@
-# API Kit
-Welcome to the API Kit repository! This toolkit is designed to simplify the process of building, testing, and deploying APIs. Whether you are a beginner or an experienced developer, this repository offers a comprehensive set of tools and resources to streamline your API development workflow.
+# Golang Kit
+Welcome to the Golang Kit repository! This toolkit is a collection of tools, libraries, and best practices for Go developers! Whether you're building web applications, microservices, or CLI tools, this repository provides resources to streamline Go development and improve your productivity.
 
 ## Features:
-- **API Architecture:** REST, GraphQL and gRPC are architectural patterns for building APIs.
-- **API Templates:** Pre-defined templates for various types of APIs (RESTful, GraphQL, etc.) to help you get started quickly.
-- **Authentication and Authorization:** Built-in support for common authentication mechanisms (JWT, OAuth, API Keys) to secure your APIs.
-- **Documentation Generator:** Tools to automatically generate API documentation from your code, making it easier to maintain and share with others.
-- **Testing Utilities:** A suite of tools for writing and running unit tests, integration tests, and end-to-end tests for your APIs.
+- **Go Packages:** A curated set of useful Go packages for various development needs—HTTP clients, concurrency, data structures, and more..
+- **Microservices Templates:** Pre-configured templates for building microservices with Go, following best practices.
+- **Testing Utilities:**  Utilities and examples for unit, integration, and performance testing in Go..
+- **Go Modules:** Examples and guidance on managing dependencies effectively using Go modules.
+- **Concurrency Patterns:**  Explore Go’s powerful concurrency features with real-world examples of goroutines, channels, and worker pools.
 - **Error Handling and Logging:** Standardized error handling and logging mechanisms to improve the reliability and maintainability of your APIs.
-- **Rate Limiting and Throttling:** Implement rate limiting and throttling to protect your APIs from abuse and ensure fair usage.
-- **Deployment Scripts:** Scripts and configurations for deploying your APIs to popular cloud providers and container platforms.
+- **CLI Tools:** Explore Go’s powerful concurrency features with real-world examples of goroutines, channels, and worker pools.
 
 ## Getting Started:
 Visit our Wiki for detailed documentation, setup instructions, and examples to help you get up and running with the API Kit.
